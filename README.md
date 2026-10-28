@@ -30,6 +30,7 @@ An advanced, dual-biometric attendance management system utilizing artificial in
 
 ```Bash```
 ```streamlit run app.py```
+
 5. Run the Flask Landing Page (Local):
 
 ```Bash```
